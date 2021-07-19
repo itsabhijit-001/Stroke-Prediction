@@ -30,7 +30,7 @@ def predict_rain():
         smokes=int(request.form.get('smokes'))
         inputs=[gender,age,hypertension,heart_disease,married,work,recidence,glucose,bmi,smokes]
         strokes=model.predict(inputs)
-        print(strokes)
+#         print(strokes)
     else:
         print('NOt working')
     return render_template('index.html',is_stroke=strokes)
