@@ -4,7 +4,7 @@
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
 The dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. 
 
-The link of web app deployed using flask and heroku is given below:-
+The link of web app, made and deployed by me using flask and heroku is given below:-
 https://stroke-prediction-deploy.herokuapp.com/
 
 
